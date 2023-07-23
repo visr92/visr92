@@ -4,7 +4,7 @@
 
 - [File Permissions In Linux](https://github.com/visr92/FilePermissionsInLinux)
 - [Apply Filters to SQL Queries](https://github.com/visr92/ApplyFiltersToSQLQueries)
-
+- [Update a File Through a Python Algorithm](https://github.com/visr92/UpdateFileThroughPythonAlgorithm)
 
 
 <h2>🏅 Certifications</h2>
