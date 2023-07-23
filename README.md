@@ -3,6 +3,8 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [File Permissions In Linux](https://github.com/visr92/FilePermissionsInLinux)
+- [Apply Filters to SQL Queries](https://github.com/visr92/ApplyFiltersToSQLQueries)
+
 
 
 <h2>🏅 Certifications</h2>
