@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [File Permissions In Linux](https://github.com/visr92/FilePermissionsInLinuxL)
+- [File Permissions In Linux](https://github.com/visr92/FilePermissionsInLinux)
 
 
 <h2>🏅 Certifications</h2>
